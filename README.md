@@ -1,13 +1,14 @@
-### Olá! Eu sou a Maria Clara 👋
+### Hi! Eu sou a Maria Clara Berger 👋
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em transição 
-de carreira: venho da área de vendas e atendimento ao cliente, e agora 
+de carreira: venho da área de vendas, e agora 
 estou migrando para tecnologia.
 
 **Minha trilha de estudos atual:**
-- 🐍 Python (Curso em Vídeo — Gustavo Guanabara)
-- 🔧 Git e GitHub
 - 🎓 Faculdade de ADS
+- 🐍 Python (Curso em Vídeo — Gustavo Guanabara)
+- 🔧 Git e GitHub (Curso em Vídeo - Gustavo Guanabara)
+- 🌐 HTML5 e CSS3 (Curso em Vídeo — Gustavo Guanabara)
 
 **Alguns dos meus repositórios:**
 - 🌐 [projeto-site](https://github.com/M-ClaraBerger/projeto-site) — projeto de site feito durante o curso de Git e GitHub
