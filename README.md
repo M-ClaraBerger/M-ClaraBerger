@@ -16,5 +16,4 @@ estou migrando para tecnologia.
 
 `Python` `Git` `GitHub` `HTML5` `CSS3`
 
-📫 Me encontre no [LinkedIn](www.linkedin.com/in/
-maria-clara-berger-a61aba226)
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/maria-clara-berger-a61aba226)
