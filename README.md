@@ -1,16 +1,20 @@
-## Hi there 👋
+### Olá! Eu sou a Maria Clara 👋
 
-<!--
-**M-ClaraBerger/M-ClaraBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, em transição 
+de carreira: venho da área de vendas e atendimento ao cliente, e agora 
+estou migrando para tecnologia.
 
-Here are some ideas to get you started:
+**Minha trilha de estudos atual:**
+- 🐍 Python (Curso em Vídeo — Gustavo Guanabara)
+- 🔧 Git e GitHub
+- 🎓 Faculdade de ADS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Alguns dos meus repositórios:**
+- 🌐 [projeto-site](https://github.com/M-ClaraBerger/projeto-site) — projeto de site feito durante o curso de Git e GitHub
+
+**Tecnologias que venho estudando:**
+
+`Python` `Git` `GitHub` `HTML5` `CSS3`
+
+📫 Me encontre no [LinkedIn](www.linkedin.com/in/
+maria-clara-berger-a61aba226)
