@@ -11,7 +11,7 @@ estou migrando para tecnologia.
 - 🌐 HTML5 e CSS3 (Curso em Vídeo — Gustavo Guanabara)
 
 **Alguns dos meus repositórios:**
-- 🌐 [projeto-site](https://github.com/M-ClaraBerger/projeto-site) — projeto de site feito durante o curso de Git e GitHub
+- 🌐 [projeto-site]https://m-claraberger.github.io/Projeto-Site/ — projeto de site feito durante o curso de Git e GitHub
 
 ### Skills:
 
