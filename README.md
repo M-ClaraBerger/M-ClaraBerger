@@ -11,7 +11,7 @@ estou migrando para tecnologia.
 - 🌐 HTML5 e CSS3 (Curso em Vídeo — Gustavo Guanabara)
 
 **Alguns dos meus repositórios:**
-- 🌐 [Desafio 9](https://m-claraberger.github.io/Meus-Estudos-HTML-CSS/Desafio09/) — páginas de cursos feitas no curso de HTML e CSS
+- 🌐 [Desafio 9](https://m-claraberger.github.io/Meus-Estudos-HTML-CSS/Desafio9/) — páginas de cursos feitas no curso de HTML e CSS
 
 ### Skills:
 
